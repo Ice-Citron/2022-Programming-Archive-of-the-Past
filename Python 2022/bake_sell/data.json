@@ -1,0 +1,5517 @@
+{
+    "main_data": {
+        "revenue_YD": 0,
+        "cost_YD": 0,
+        "profit_YD": 0,
+        "time_spent_YD": {
+            "hour": 0,
+            "minute": 0
+        },
+        "revenue": 0,
+        "cost": 0,
+        "profit": 0,
+        "time_spent": {
+            "hour": 0,
+            "minute": 0
+        }
+    },
+    "product_pending": {},
+    "product_sold_YD": {
+        "special_occasion": {}
+    },
+    "product_sold": {
+        "special_occasion": {}
+    },
+    "net_loss_YD": {
+        "special_occasion": {}
+    },
+    "net_loss": {
+        "special_occasion": {}
+    },
+    "YD_calendar": {
+        "2022/01/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/01/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/02/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/03/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/04/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/05/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/06/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/07/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/08/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/09/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/10/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/11/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/01": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/02": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/03": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/04": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/05": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/06": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/07": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/08": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/09": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/10": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/11": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/12": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/13": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/14": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/15": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/16": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/17": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/18": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/19": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/20": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/21": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/22": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/23": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/24": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/25": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/26": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/27": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/28": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/29": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/30": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        },
+        "2022/12/31": {
+            "revenue": 0,
+            "cost": 0,
+            "profit": 0,
+            "time_spent": {
+                "hour": 0,
+                "minute": 0
+            },
+            "product_sold": {
+                "special_occasion": {}
+            },
+            "net_loss": {
+                "special_occasion": {}
+            }
+        }
+    },
+    "orders_tofill": {},
+    "orders_req_cancellation": {},
+    "manual_orders_req_cancellation": {},
+    "type_of_products": {
+        "special_occasion": {}
+    },
+    "event": [],
+    "event_name": {},
+    "form_id": {}
+}

@@ -1,0 +1,25 @@
+[{
+    "main_data": {
+        "revenue_YD": 0,
+        "cost_YD": 0,
+        "profit_YD": 0,
+        "time_spent_YD": {'hour': 0, 'minute': 0},
+        "revenue": 0,
+        "cost": 0,
+        "profit": 0,
+        "time_spent": {'hour': 0, 'minute': 0}
+    },
+    "product_pending": {'02/14': {'cookie': 0, 'cake': 0, 'special_occasion': {}}, '02/21': {'cookie': 0, 'cake': 0, 'special_occasion': {} }}, #this is products that will be sold/the reserve
+    "product_sold_YD": {'cookie': 0, 'cake': 0, 'special_occasion': {}},
+    "product_sold": {'cookie': 0, 'cake': 0, 'special_occasion': {}},
+    "net_loss_YD": {'cookie': 0, 'cake': 0, 'special_occasion': {}},
+    "net_loss": {'cookie': 0, 'cake': 0, 'special_occasion': {}},
+    "YD_calendar": {'22-1-2021': {'revenue': 0, 'cost': 0, 'profit': 0, 'time_spent': {'hour': 0, 'minute': 0}, 'products_sold': {'cookie': 0, 'cake': 0, 'special_occasion': {}}}},
+    "orders_tofill": {'02/14': {'cookie': 0, 'cake': 0, 'special_occasion': {}}, '02/21': {'cookie': 0, 'cake': 0, 'special_occasion': {}}},
+    "orders_req_cancellation": {'02/14': {'jolie': {'cake': 10}, 'Alex': {'cookie': 5} }},
+    "'manual_orders_req_cancellation'": {'02/14': {}},
+    "type_of_products": {'cookie': 5.00, 'cake': 5.00, 'special_occasion': {}},
+    "event": ['02/14', '02/21'],
+    "event_name": {'02/14': 'Valentine's Day'},
+    "form_id": {'02/14': {'input': form_id, 'sell': form_id}}
+} 
